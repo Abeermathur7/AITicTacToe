@@ -14,12 +14,11 @@ public class TTTDriver {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         TTT game = new TTT();
-        
+
         game.play();
-        
+
     }
-    
+
 }
